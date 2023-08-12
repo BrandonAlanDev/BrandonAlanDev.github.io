@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(-45deg,rgb(29, 29, 29),rgb(5, 0, 100));
+    width: 100%;
+    background-attachment: fixed;
+    color: rgb(255, 95, 36);
+}
+.contenedor{
+    margin-bottom: 20px;
+    background: rgb(255, 188, 173);
+    color: rgb(32, 32, 32);
+    min-height: 100px;
+}
+
+.contenedor > div{
+    background: rgb(255, 95, 36);
+    padding: 15px 20px;
+    border: 1px solid;
+    color: whitesmoke;
+}
